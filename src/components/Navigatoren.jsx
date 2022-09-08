@@ -11,6 +11,7 @@ function Navigatoren() {
             <NavigatorEinzeln></NavigatorEinzeln>
             <NavigatorEinzeln></NavigatorEinzeln>
         </div>
+        <p>dsf</p>
 
         <h2>Tourismusentwicklung</h2>
         <div className="flex flex-wrap ">
